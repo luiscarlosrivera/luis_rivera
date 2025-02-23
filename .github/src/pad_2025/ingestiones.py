@@ -30,4 +30,7 @@ inges = Ingestiones()
 datos_json = inges.leer_json()
 print(datos_json)
 
+print("********************************************************")
+datos_txt = inges.leer_txt()
+print(datos_txt)
     
