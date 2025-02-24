@@ -14,4 +14,6 @@ persona =Personas()
 persona.edad =   42
 persona.estatura = 193
 print("nombre: ",persona.nombre," edad: ",persona.edad, " cms: ", persona.estatura)
-print("nombre: ",persona.nombre," edad: ",persona.edad, " cms: ", persona.estatura)   
+print("nombre: ",persona.nombre," edad: ",persona.edad, " cms: ", persona.estatura)  
+
+"F:/Ingenieria/Analitica de datos/repositorios/luis_rivera/.github/src/pad_2025/static/"
