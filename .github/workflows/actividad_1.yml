@@ -27,7 +27,7 @@ jobs:
       - name: paso4 - instalar dependencias
         run: pip install -e .
       - name: paso5 - Ejecutar script
-        run: python .github/src/pad_2025/static/
+        run: python src/pad_2025/static/
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
