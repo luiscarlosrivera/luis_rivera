@@ -1,5 +1,4 @@
-name: actividad_1
-
+name: Actividad_1
 on:
   push:
     branches: [ main ]
@@ -34,6 +33,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update Test
-          commit_user_name: Luis Carlos Rivera [GitHub Actions]
-          commit_user_email: luis.rivera@est.iudigital.edu.co
-          commit_author: Luis Carlos Rivera <luis.rivera@est.iudigital.edu.co>
+          commit_user_name: Luis Rivera [GitHub Actions]
+          commit_user_email: luis.rivera@iudigital.edu.co
+          commit_author: Luis Rivera <luis.rivera@iudigital.edu.co>

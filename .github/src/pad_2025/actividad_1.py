@@ -4,7 +4,7 @@ import json
 
 class Ingestiones():
     def __init__(self):
-        self.ruta_static="F:/Ingenieria/Analitica de datos/repositorios/luis_rivera/.github/src/pad_2025/static/"
+        self.ruta_static="src/pad_2025/static/"
         
     def leer_json(self):
         
